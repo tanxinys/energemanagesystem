@@ -1,0 +1,24 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.1607843137254902 0.1607843137254902 0.1607843137254902"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Pixel art" ],
+	"title" : "Pepe Dancing",
+	"type" : "Web",
+	"version" : 1,
+	"visibility" : "public"
+}
